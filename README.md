@@ -4,3 +4,105 @@ These problems range in difficulty and, for many, the experience is inductive ch
 That is, by solving one problem, it will expose you to a new concept that allows you to undertake a previously inaccessible problem. 
 
 - https://www.freecodecamp.org/learn/project-euler/
+
+## 1-100
+- Multiples of 3 or 5
+- Even Fibonacci Numbers
+- Largest prime factor
+- Largest palindrome product
+- Smallest multiple
+- Sum square difference
+- 10001st prime
+- Largest product in a series
+- Special Pythagorean triplet
+- Summation of primes
+- Largest product in a grid
+- Highly divisible triangular number
+- Large sum
+- Longest Collatz sequence
+- Lattice paths
+- Power digit sum
+- Number letter counts
+- Maximum path sum I
+- Counting Sundays
+- Factorial digit sum
+- Amicable numbers
+- Names scores
+- Non-abundant sums
+- Lexicographic permutations
+- 1000-digit Fibonacci number
+- Reciprocal cycles
+- Quadratic primes
+- Number spiral diagonals
+- Distinct powers
+- Digit n powers
+- Coin sums
+- Pandigital products
+- Digit cancelling fractions
+- Digit factorials
+- Circular primes
+- Double-base palindromes
+- Truncatable primes
+- Pandigital multiples
+- Integer right triangles
+- Champernowne's constant
+- Pandigital prime
+- Coded triangle numbers
+- Sub-string divisibility
+- Pentagon numbers
+- Triangular, pentagonal, and hexagonal
+- Goldbach's other conjecture
+- Distinct primes factors
+- Self powers
+- Prime permutations
+- Consecutive prime sum
+- Prime digit replacements
+- Permuted multiples
+- Combinatoric selections
+- Poker hands
+- Lychrel numbers
+- Powerful digit sum
+- Square root convergents
+- Spiral primes
+- XOR decryption
+- Prime pair sets
+- Cyclical figurate numbers
+- Cubic permutations
+- Powerful digit counts
+- Odd period square roots
+- Convergents of e
+- Diophantine equation
+- Maximum path sum II
+- Magic 5-gon ring
+- Totient maximum
+- Totient permutation
+- Ordered fractions
+- Counting fractions
+- Counting fractions in a range
+- Digit factorial chains
+- Singular integer right triangles
+- Counting summations
+- Prime summations
+- Coin partitions
+- Passcode derivation
+- Square root digital expansion
+- Path sum: two ways
+- Path sum: three ways
+- Path sum: four ways
+- Monopoly odds
+- Counting rectangles
+- Cuboid route
+- Prime power triples
+- Product-sum numbers
+- Roman numerals
+- Cube digit pairs
+- Right triangles with integer coordinates
+- Square digit chains
+- Arithmetic expressions
+- Almost equilateral triangles
+- Amicable chains
+- Su Doku
+- Large non-Mersenne prime
+- Anagramic squares
+- Largest exponential
+- Arranged probability
